@@ -1,0 +1,239 @@
+[
+  {
+    "job_id": "j01",
+    "company_id": "c01",
+    "title": "Ausbildung Kfz-Mechatroniker/in",
+    "description": "Apprenticeship as a motor vehicle mechatronics technician. Diagnose and repair vehicles.",
+    "responsibilities": [
+      "Vehicle diagnostics",
+      "Routine servicing",
+      "Customer handover"
+    ],
+    "required_skills": [
+      "Teamwork",
+      "Basic mechanics",
+      "Attention to detail"
+    ],
+    "optional_skills": [
+      "Driving licence"
+    ],
+    "matching_category": "VOCATIONAL",
+    "city": "Berlin",
+    "start_date": "2026-09",
+    "sector": "Automotive",
+    "company_size": "50-200",
+    "language_requirements": [
+      {
+        "language": "German",
+        "level": "B2",
+        "kind": "REQUIRED"
+      },
+      {
+        "language": "English",
+        "level": "B1",
+        "kind": "OPTIONAL"
+      }
+    ]
+  },
+  {
+    "job_id": "j02",
+    "company_id": "c02",
+    "title": "Ausbildung Fachinformatiker/in Anwendungsentwicklung",
+    "description": "IT apprenticeship in application development. Build and maintain business software.",
+    "responsibilities": [
+      "Write and test code",
+      "Support internal tools"
+    ],
+    "required_skills": [
+      "Logical thinking",
+      "Basic programming"
+    ],
+    "optional_skills": [
+      "Python",
+      "SQL"
+    ],
+    "matching_category": "VOCATIONAL",
+    "city": "Hamburg",
+    "start_date": "2026-09",
+    "sector": "IT",
+    "company_size": "200-500",
+    "language_requirements": [
+      {
+        "language": "German",
+        "level": "B1",
+        "kind": "REQUIRED"
+      },
+      {
+        "language": "English",
+        "level": "B2",
+        "kind": "OPTIONAL"
+      }
+    ]
+  },
+  {
+    "job_id": "j03",
+    "company_id": "c03",
+    "title": "Duales Studium Betriebswirtschaft",
+    "description": "Dual study programme in business administration with a retail partner.",
+    "responsibilities": [
+      "Rotate through departments",
+      "Support controlling"
+    ],
+    "required_skills": [
+      "Communication",
+      "Numeracy"
+    ],
+    "optional_skills": [
+      "Excel"
+    ],
+    "matching_category": "DUAL_STUDY",
+    "city": "Munich",
+    "start_date": "2026-10",
+    "sector": "Business",
+    "company_size": "500+",
+    "language_requirements": [
+      {
+        "language": "German",
+        "level": "C1",
+        "kind": "REQUIRED"
+      }
+    ]
+  },
+  {
+    "job_id": "j04",
+    "company_id": "c04",
+    "title": "Ausbildung Elektroniker/in für Betriebstechnik",
+    "description": "Electronics apprenticeship for industrial operating technology.",
+    "responsibilities": [
+      "Install control systems",
+      "Maintain machinery"
+    ],
+    "required_skills": [
+      "Manual dexterity",
+      "Safety awareness"
+    ],
+    "optional_skills": [],
+    "matching_category": "VOCATIONAL",
+    "city": "Berlin",
+    "start_date": "2026-09",
+    "sector": "Engineering",
+    "company_size": "50-200",
+    "language_requirements": [
+      {
+        "language": "German",
+        "level": "B2",
+        "kind": "REQUIRED"
+      }
+    ]
+  },
+  {
+    "job_id": "j05",
+    "company_id": "c05",
+    "title": "Ausbildung Kaufmann/-frau im Einzelhandel",
+    "description": "Retail management apprenticeship. Customer service and merchandising.",
+    "responsibilities": [
+      "Advise customers",
+      "Manage stock"
+    ],
+    "required_skills": [
+      "Friendliness",
+      "Reliability"
+    ],
+    "optional_skills": [],
+    "matching_category": "VOCATIONAL",
+    "city": "Cologne",
+    "start_date": "2027-02",
+    "sector": "Retail",
+    "company_size": "200-500",
+    "language_requirements": [
+      {
+        "language": "German",
+        "level": "B1",
+        "kind": "REQUIRED"
+      }
+    ]
+  },
+  {
+    "job_id": "j06",
+    "company_id": "c06",
+    "title": "Ausbildung Medizinische/r Fachangestellte/r",
+    "description": "Medical assistant apprenticeship in a busy clinic.",
+    "responsibilities": [
+      "Patient reception",
+      "Assist with procedures"
+    ],
+    "required_skills": [
+      "Empathy",
+      "Organisation"
+    ],
+    "optional_skills": [],
+    "matching_category": "VOCATIONAL",
+    "city": "Hamburg",
+    "start_date": "2026-09",
+    "sector": "Healthcare",
+    "company_size": "10-50",
+    "language_requirements": [
+      {
+        "language": "German",
+        "level": "C1",
+        "kind": "REQUIRED"
+      }
+    ]
+  },
+  {
+    "job_id": "j07",
+    "company_id": "c07",
+    "title": "Ausbildung Koch/Köchin",
+    "description": "Chef apprenticeship in a hotel kitchen.",
+    "responsibilities": [
+      "Food preparation",
+      "Kitchen hygiene"
+    ],
+    "required_skills": [
+      "Stamina",
+      "Teamwork"
+    ],
+    "optional_skills": [],
+    "matching_category": "VOCATIONAL",
+    "city": "Munich",
+    "start_date": "2026-09",
+    "sector": "Hospitality",
+    "company_size": "50-200",
+    "language_requirements": [
+      {
+        "language": "German",
+        "level": "B2",
+        "kind": "REQUIRED"
+      }
+    ]
+  },
+  {
+    "job_id": "j08",
+    "company_id": "c08",
+    "title": "Ausbildung Industriemechaniker/in",
+    "description": "Industrial mechanic apprenticeship. Assemble and maintain production equipment.",
+    "responsibilities": [
+      "Assemble components",
+      "Preventive maintenance"
+    ],
+    "required_skills": [
+      "Precision",
+      "Basic mechanics"
+    ],
+    "optional_skills": [
+      "Driving licence"
+    ],
+    "matching_category": "VOCATIONAL",
+    "city": "Berlin",
+    "start_date": "2026-09",
+    "sector": "Engineering",
+    "company_size": "200-500",
+    "language_requirements": [
+      {
+        "language": "German",
+        "level": "B2",
+        "kind": "REQUIRED"
+      }
+    ]
+  }
+]

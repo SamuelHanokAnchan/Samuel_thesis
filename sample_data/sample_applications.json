@@ -1,0 +1,242 @@
+[
+  {
+    "student_id": "s01",
+    "job_id": "j01",
+    "status": "AI_INTERVIEW_INVITED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "AI_INTERVIEW_INVITED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s01",
+    "job_id": "j08",
+    "status": "REJECTED_BY_COMPANY",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "REJECTED_BY_COMPANY",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s02",
+    "job_id": "j01",
+    "status": "AI_INTERVIEW_INVITED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "AI_INTERVIEW_INVITED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s02",
+    "job_id": "j04",
+    "status": "REJECTED_BY_COMPANY",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "REJECTED_BY_COMPANY",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s03",
+    "job_id": "j02",
+    "status": "ACCEPTED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "ACCEPTED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s03",
+    "job_id": "j06",
+    "status": "REJECTED_BY_COMPANY",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "REJECTED_BY_COMPANY",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s04",
+    "job_id": "j03",
+    "status": "ONLINE_INTERVIEW_COMPLETED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "ONLINE_INTERVIEW_COMPLETED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s05",
+    "job_id": "j06",
+    "status": "AI_INTERVIEW_INVITED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "AI_INTERVIEW_INVITED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s05",
+    "job_id": "j02",
+    "status": "REJECTED_BY_COMPANY",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "REJECTED_BY_COMPANY",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s06",
+    "job_id": "j05",
+    "status": "CHAT_STARTED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "CHAT_STARTED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s07",
+    "job_id": "j07",
+    "status": "AI_INTERVIEW_COMPLETED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "AI_INTERVIEW_COMPLETED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s07",
+    "job_id": "j03",
+    "status": "REJECTED_BY_COMPANY",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "REJECTED_BY_COMPANY",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s08",
+    "job_id": "j04",
+    "status": "AI_INTERVIEW_INVITED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "AI_INTERVIEW_INVITED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s09",
+    "job_id": "j02",
+    "status": "ACCEPTED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "ACCEPTED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s10",
+    "job_id": "j08",
+    "status": "AI_INTERVIEW_INVITED",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "AI_INTERVIEW_INVITED",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  },
+  {
+    "student_id": "s10",
+    "job_id": "j07",
+    "status": "REJECTED_BY_COMPANY",
+    "initiated_by_company": false,
+    "created_at": "2026-05-01",
+    "status_history": [
+      {
+        "from": null,
+        "to": "REJECTED_BY_COMPANY",
+        "at": "2026-05-01",
+        "source": "company"
+      }
+    ]
+  }
+]

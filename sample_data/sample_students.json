@@ -1,0 +1,414 @@
+[
+  {
+    "student_id": "s01",
+    "matching_category": "VOCATIONAL",
+    "city": "Berlin",
+    "country_of_origin": "BR",
+    "start_date": "2026-09",
+    "education_level": "Abitur",
+    "top_job_interests": [],
+    "career_fields": [
+      "vehicle mechanic",
+      "Automotive"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "INTERMEDIATE"
+      },
+      {
+        "language": "English",
+        "proficiency": "FLUENT"
+      },
+      {
+        "language": "Portuguese",
+        "proficiency": "NATIVE"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Workshop assistant",
+        "description": "Assisted with basic vehicle servicing."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "Gymnasium",
+        "degree": "Abitur",
+        "field": "Science"
+      }
+    ],
+    "activities": [
+      {
+        "name": "Robotics club",
+        "description": "Built a competition robot."
+      }
+    ]
+  },
+  {
+    "student_id": "s02",
+    "matching_category": "VOCATIONAL",
+    "city": "Berlin",
+    "country_of_origin": "CO",
+    "start_date": "2026-09",
+    "education_level": "Abitur",
+    "top_job_interests": [],
+    "career_fields": [
+      "car repair",
+      "Engineering"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "BASIC"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "NATIVE"
+      },
+      {
+        "language": "English",
+        "proficiency": "INTERMEDIATE"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Garage helper",
+        "description": "Changed tyres and oil."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "Gymnasium",
+        "degree": "Abitur",
+        "field": "Technology"
+      }
+    ],
+    "activities": []
+  },
+  {
+    "student_id": "s03",
+    "matching_category": "VOCATIONAL",
+    "city": "Hamburg",
+    "country_of_origin": "IN",
+    "start_date": "2026-09",
+    "education_level": "Abitur",
+    "top_job_interests": [],
+    "career_fields": [
+      "software developer",
+      "Information Technology"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "INTERMEDIATE"
+      },
+      {
+        "language": "English",
+        "proficiency": "NATIVE"
+      },
+      {
+        "language": "Hindi",
+        "proficiency": "NATIVE"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Coding club mentor",
+        "description": "Taught Python basics."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "International School",
+        "degree": "IB",
+        "field": "Computer Science"
+      }
+    ],
+    "activities": [
+      {
+        "name": "Hackathons",
+        "description": "Won a school hackathon."
+      }
+    ]
+  },
+  {
+    "student_id": "s04",
+    "matching_category": "DUAL_STUDY",
+    "city": "Munich",
+    "country_of_origin": "PL",
+    "start_date": "2026-10",
+    "education_level": "Abitur",
+    "top_job_interests": [],
+    "career_fields": [
+      "business administration",
+      "Finance"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "FLUENT"
+      },
+      {
+        "language": "Polish",
+        "proficiency": "NATIVE"
+      },
+      {
+        "language": "English",
+        "proficiency": "FLUENT"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Retail intern",
+        "description": "Supported store controlling."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "Gymnasium",
+        "degree": "Abitur",
+        "field": "Economics"
+      }
+    ],
+    "activities": []
+  },
+  {
+    "student_id": "s05",
+    "matching_category": "VOCATIONAL",
+    "city": "Hamburg",
+    "country_of_origin": "SY",
+    "start_date": "2026-09",
+    "education_level": "Realschule",
+    "top_job_interests": [],
+    "career_fields": [
+      "nurse",
+      "Healthcare"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "INTERMEDIATE"
+      },
+      {
+        "language": "Arabic",
+        "proficiency": "NATIVE"
+      },
+      {
+        "language": "English",
+        "proficiency": "INTERMEDIATE"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Care volunteer",
+        "description": "Helped at a community clinic."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "Realschule",
+        "degree": "MSA",
+        "field": "General"
+      }
+    ],
+    "activities": []
+  },
+  {
+    "student_id": "s06",
+    "matching_category": "VOCATIONAL",
+    "city": "Cologne",
+    "country_of_origin": "TR",
+    "start_date": "2027-02",
+    "education_level": "Realschule",
+    "top_job_interests": [],
+    "career_fields": [
+      "retail",
+      "Sales"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "FLUENT"
+      },
+      {
+        "language": "Turkish",
+        "proficiency": "NATIVE"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Shop assistant",
+        "description": "Weekend retail work."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "Realschule",
+        "degree": "MSA",
+        "field": "General"
+      }
+    ],
+    "activities": []
+  },
+  {
+    "student_id": "s07",
+    "matching_category": "VOCATIONAL",
+    "city": "Munich",
+    "country_of_origin": "IT",
+    "start_date": "2026-09",
+    "education_level": "Abitur",
+    "top_job_interests": [],
+    "career_fields": [
+      "chef",
+      "Culinary arts"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "INTERMEDIATE"
+      },
+      {
+        "language": "Italian",
+        "proficiency": "NATIVE"
+      },
+      {
+        "language": "English",
+        "proficiency": "FLUENT"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Kitchen intern",
+        "description": "Prep work in a restaurant."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "Gymnasium",
+        "degree": "Abitur",
+        "field": "Humanities"
+      }
+    ],
+    "activities": []
+  },
+  {
+    "student_id": "s08",
+    "matching_category": "NOT_SURE",
+    "city": "Berlin",
+    "country_of_origin": "UA",
+    "start_date": "2026-09",
+    "education_level": "Abitur",
+    "top_job_interests": [],
+    "career_fields": [
+      "electrician",
+      "Engineering"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "BASIC"
+      },
+      {
+        "language": "Ukrainian",
+        "proficiency": "NATIVE"
+      },
+      {
+        "language": "English",
+        "proficiency": "FLUENT"
+      }
+    ],
+    "work_experience": [],
+    "education": [
+      {
+        "school_type": "Gymnasium",
+        "degree": "Abitur",
+        "field": "Science"
+      }
+    ],
+    "activities": [
+      {
+        "name": "Electronics hobby",
+        "description": "Repairs small appliances."
+      }
+    ]
+  },
+  {
+    "student_id": "s09",
+    "matching_category": "VOCATIONAL",
+    "city": "Hamburg",
+    "country_of_origin": "ES",
+    "start_date": "2026-09",
+    "education_level": "Abitur",
+    "top_job_interests": [],
+    "career_fields": [
+      "IT support",
+      "Information Technology"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "NATIVE"
+      },
+      {
+        "language": "Spanish",
+        "proficiency": "NATIVE"
+      },
+      {
+        "language": "English",
+        "proficiency": "FLUENT"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Helpdesk volunteer",
+        "description": "Fixed school laptops."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "International School",
+        "degree": "IB",
+        "field": "Computer Science"
+      }
+    ],
+    "activities": []
+  },
+  {
+    "student_id": "s10",
+    "matching_category": "VOCATIONAL",
+    "city": "Munich",
+    "country_of_origin": "FR",
+    "start_date": "2026-09",
+    "education_level": "Abitur",
+    "top_job_interests": [],
+    "career_fields": [
+      "industrial mechanic",
+      "Manufacturing"
+    ],
+    "languages": [
+      {
+        "language": "German",
+        "proficiency": "FLUENT"
+      },
+      {
+        "language": "French",
+        "proficiency": "NATIVE"
+      }
+    ],
+    "work_experience": [
+      {
+        "job_title": "Factory summer job",
+        "description": "Assembly line support."
+      }
+    ],
+    "education": [
+      {
+        "school_type": "Gymnasium",
+        "degree": "Abitur",
+        "field": "Technology"
+      }
+    ],
+    "activities": []
+  }
+]

@@ -1,0 +1,13 @@
+# Never commit real or personal data. The evaluation dataset is not part of this repository.
+data/
+*.private.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
