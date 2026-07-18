@@ -1,21 +1,34 @@
-MIT License
+Copyright (c) 2026 Samuel Hanok Anchan. All rights reserved.
 
-Copyright (c) 2026 Samuel Hanok Anchan
+PROPRIETARY — NO LICENCE GRANTED
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository accompanies the master's thesis "Design and Evaluation of an
+AI-Based Talent Matching System for Vocational Apprenticeships" (Samuel Hanok
+Anchan, SRH University Hamburg). It is made available for academic examination
+and reference only. All rights are reserved by the author and, where applicable,
+by Mariposa-Edu GmbH.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You MAY:
+  - view and read this source code for the sole purpose of examining, assessing,
+    or reviewing the associated thesis.
+
+You MAY NOT, without the prior written permission of the copyright holder:
+  - copy, reproduce, download, or store this software or any substantial portion
+    of it, except as strictly necessary to view it in a browser or to clone it
+    for the examination purpose above;
+  - modify, translate, or create derivative works from it;
+  - use it, in whole or in part, in any product, service, model, or research
+    output;
+  - redistribute, republish, sublicense, sell, or otherwise make it available to
+    any third party.
+
+No trademark, patent, or other right is granted by implication or otherwise.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For permissions beyond the scope of this notice, contact the author.

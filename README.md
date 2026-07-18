@@ -179,5 +179,8 @@ thesis are the author's own.
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE). This licence covers the code in this repository only. It does not
-extend to the Mariposa-Edu GmbH production system or to any data.
+**Proprietary — all rights reserved.** See [`LICENSE`](LICENSE). This repository is published for
+academic examination and reference only. You may view it, but it is not licensed for reuse,
+modification, or redistribution without the author's prior written permission. All rights are
+reserved by the author and, where applicable, by Mariposa-Edu GmbH. The notice covers the code in
+this repository only and does not extend to the Mariposa-Edu GmbH production system or to any data.
